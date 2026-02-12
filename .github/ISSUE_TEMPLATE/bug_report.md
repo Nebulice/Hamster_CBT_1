@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: "[Portée]: courte description du bug"
 labels: ''
 assignees: blegourr
 
