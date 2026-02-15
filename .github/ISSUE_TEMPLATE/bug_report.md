@@ -7,32 +7,29 @@ assignees: blegourr
 
 ---
 
+**Pseudo : **
+- Discord : XXX
+- Minecraft : XXX
+
+**Portées :**
+Lieu où se trouve le crash, (Exemple : Plugin Economie)
+
+Date et Heure de l'incident : 
+(Très utile pour que nous puissions vérifier les logs).
+
 **Describe the bug**
-A clear and concise description of what the bug is.
+exemple : Lors d'un click droit dans un inv, tu viens verndre X quantités d'items, se qui se passe bien que se sois en arrgent ajouter où bien en items retirer, mais l'items dans inv lui ne perds que 1 de stock au lieu de X items.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Comment reproduire le bug ?**
+1. Aller parler au pnj de vente
+2. vendre X items avec le click droits
+3. Regarder le stock de l'item dans l'inv.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportement attendu :**
+Ce qui aurait dû se passer normalement (ex: "le stock est réduit de X items").
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots ou Vidéo :**
+Drag and Drop vos images / Vidéo.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+Contexte additionnel
+Ajoute ici toute autre info utile.
