@@ -7,7 +7,7 @@ assignees: blegourr
 
 ---
 
-**Pseudo : **
+**Pseudo :**
 - Discord : XXX
 - Minecraft : XXX
 
