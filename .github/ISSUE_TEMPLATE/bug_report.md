@@ -19,6 +19,7 @@ Lieu où se trouve le crash, (Exemple : Plugin Économie)
 
 **Description du bug**
 Exemple : Lors d'un clic droit dans un inv, tu viens vendre X quantités d'items, ce qui se passe bien que ce soit en argent ajouté ou bien en items retirés, mais les items dans inv lui ne perd que 1 de stock au lieu de X items.
+
 **Comment reproduire le bug ?**
 1. Aller parler au point de vente
 2. vendre X items avec le clic droit
